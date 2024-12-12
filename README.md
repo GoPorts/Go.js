@@ -1,4 +1,5 @@
-![Easy to write, Fast Performance](https://github.com/user-attachments/assets/6821cc0e-c90f-4f2a-a029-827bf5d48455)
+![Easy to write, Fast Performance](https://github.com/user-attachments/assets/1be46de0-f76e-40b4-8e9b-7bf7a10eb161)
+
 
 [![Download zip](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
 [![Download zip](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
@@ -10,8 +11,9 @@ Go.js is a JavaScript/TypeScript code that converts simple words into GO code <b
 Go.js is still under development <br />
 you also must know that your antivirus might get trigget of the js code, if it does download the .txt file insted <br />
 more info by scrolling down <br />
-<br /><br /> 
-‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎    ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎  ‎‎ ‎  ‎   ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎  ‎ ‎  [![Go-removebg-preview (1) (1)](https://github.com/user-attachments/assets/8f1ec159-96d3-493e-85b7-19ab0a3bf3a7)](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1)
+<br /><br />
+
+‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎    ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎  ‎‎ ‎  ‎   ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎  ‎ ‎  ![Go-removebg-preview (1) (1)](https://github.com/user-attachments/assets/15b8f861-657f-48f5-bfae-418719ffc05f)
 
 ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎  ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎  [![Download zip](https://img.shields.io/badge/Download-Go.js-blue)](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1)<br /> 
 <br /><br />

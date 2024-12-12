@@ -4,7 +4,6 @@
 [![Download zip](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
 [![Download zip](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
 <br /> <br />
-[![Download zip](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/GoPorts)<br /> 
 # What is Go.js?
 
 **Go.js is still in beta, thus it can give you code that dosent work, be aware** <br /> <br />

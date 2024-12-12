@@ -37,7 +37,7 @@ more info by scrolling down <br />
 ‎‎   ◦ Go.js is source free, which means that other people can use it <br />
 ‎‎   ◦ Go.js is still under development <br />
 
- [![Download zip](https://img.shields.io/badge/Version-v1.0.0-blue)](https://github.com/GoPorts)<br /> 
+ **[![Download zip](https://img.shields.io/badge/Version-v1.0.0-blue)](https://github.com/GoPorts)** <br /> 
  
 ```
   let go = `

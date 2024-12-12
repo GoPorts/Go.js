@@ -1,1 +1,94 @@
-# Go.js
+![Easy to write, Fast Performance](https://github.com/user-attachments/assets/6821cc0e-c90f-4f2a-a029-827bf5d48455)
+
+[![Download zip](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
+[![Download zip](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
+<br /> <br />
+# What is Go.js?
+
+**Go.js is still in beta, thus it can give you code that dosent work, be aware** <br /> <br />
+Go.js is a JavaScript/TypeScript code that converts simple words into GO code <br />
+Go.js is still under development <br />
+you also must know that your antivirus might get trigget of the js code, if it does download the .txt file insted <br />
+more info by scrolling down <br />
+<br /><br /> 
+‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎    ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎  ‎‎ ‎  ‎   ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎  ‎ ‎  [![Go-removebg-preview (1) (1)](https://github.com/user-attachments/assets/8f1ec159-96d3-493e-85b7-19ab0a3bf3a7)](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1)
+
+‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎  ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎  [![Download zip](https://img.shields.io/badge/Download-Go.js-blue)](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1)<br /> 
+<br /><br />
+ <hr>
+ 
+ • How to setup <br />
+ 
+‎ ‎  ◦ after you've open Go.js, you can put some words in your coding space (go = ´´). <br />
+‎ ‎  ◦ you only need a JavaScript or TypeScript compiler, and the your done! <br />
+
+ • All keywords for Go.js <br />
+ 
+‎ ‎  ◦ start, by typing start it'll create the package and import <br />
+‎ ‎  ◦ print , we know what print does <br />
+‎ ‎  ◦ input , we also know what input does <br />
+‎ ‎  ◦ var, to create a variable you do this ´var hello = "world"´ <br />
+
+ • Why make this? <br />
+ 
+‎ ‎  ◦ since Go is in high demand, its also in high value <br />
+‎ ‎  ◦ for people that can code in JavaScript but not Go <br />
+‎ ‎  ◦ and if you use AI to convert the code, you might result in bad code <br />
+
+ • Other info <br />
+ 
+‎‎   ◦ Go.js is source free, which means that other people can use it <br />
+‎‎   ◦ Go.js is still under development <br />
+
+ copy and paste<br />
+ 
+```
+  let go = `
+   start
+
+`;
+
+
+
+let gocode
+/*
+ * Creating the package and import if it begins with start
+ * print = fmt.Println("")
+ * input = fmt.Scanln()
+ * var name = value 
+ * @start
+*/
+gocode = ""
+if (go.includes("start")) {
+    gocode+=(`
+package main
+
+import "fmt"
+       
+func main(){
+    `);
+    if (go.includes("print ")) {
+        const textToPrint = go.split("print ")[1].split("\n")[0].trim();
+        gocode+=(`    fmt.Println("${textToPrint}")`);
+    }
+    if (go.includes("var ")) {
+        const variableLine = go.split("var ")[1].split("\n")[0].trim();
+        const valuetype = prompt(`value type for ${variableLine}`);
+        const value = prompt(`value for ${variableLine}`);
+        if (valuetype === "bool") {
+            gocode+=(`    ${variableLine} := ${value}`);
+        } else if (valuetype === "string") {
+            gocode+=(`    ${variableLine} := "${value}"`);
+        } else if (valuetype === "int" || valuetype === "float64") {
+            gocode+=(`    ${variableLine} := ${value}`);
+        }
+    }
+    if (go.includes("input ")) {
+        const inputVar = go.split("input ")[1].split("\n")[0].trim();
+        gocode+=(`    fmt.Scanln(&${inputVar})`);
+    }
+
+    gocode+=("}");
+}
+console.log(gocode)
+```

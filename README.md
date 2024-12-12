@@ -4,8 +4,9 @@
 
 [![Download zip](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
 <br /> <br />
-# What is Go.js?
-
+ [![Download zip](https://img.shields.io/badge/Download-blue)](https://github.com/GoPorts) <br /> 
+<br />
+# What is Go.js? <br />
 **Go.js is still in beta, thus it can give you code that dosent work, be aware** <br /> <br />
 Go.js is a JavaScript/TypeScript code that converts simple words into GO code <br />
 Go.js is still under development <br />
@@ -37,7 +38,8 @@ more info by scrolling down <br />
 ‎‎   ◦ Go.js is source free, which means that other people can use it <br />
 ‎‎   ◦ Go.js is still under development <br />
 
- **[![Download zip](https://img.shields.io/badge/Version-v1.0.0-blue)](https://github.com/GoPorts)** <br /> 
+# • Download
+ [![Download zip](https://img.shields.io/badge/Version-v1.0.0-blue)](https://github.com/GoPorts) <br /> 
  
 ```
   let go = `

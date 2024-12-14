@@ -28,7 +28,7 @@ more info by scrolling down <br /> <br />
 ‎ ‎  ◦ start, by typing start it'll create the package and import. <br />
 ‎ ‎  ◦ print , we know what print does <br />
 ‎ ‎  ◦ input , we also know what input does <br />
-‎ ‎  ◦ var, to create a variable you do this ´var hello = "world"´.<br />
+‎ ‎  ◦ v!, to create a variable you do this ´v! hello = "world"´.<br />
 ‎ ‎  ◦ if, if statement is more simpler with Go.js, this is how, if var is val then{}.<br />
 
  • Why make this? <br />
